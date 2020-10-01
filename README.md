@@ -5,6 +5,8 @@ for production workloads.
 
 _Kubernetes for Everyone_
 
+Foobar
+
 Using the Kubernetes API today often feels heavy and repetitive. Many of the API
 fields are deeply nested and require users to specify the same values over and
 over across different resources. While this input is necessary for Kubernetes to
